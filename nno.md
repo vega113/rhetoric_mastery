@@ -69,3 +69,9 @@
 | +  |   | London is capital of Great Britain |
 |   |  + | Hamburgers - the cornerstone of any nutricious breakfast (Pulp fiction) |
 |   |  + | הוא רוצה ממך רק דבר אחד |
+
+
+### סיכום
+- ם אנו מפרשים אירועים על סמך דעותינו , זה יכוללגרום לחילוקי דעות ו אי הבנה: לכל אחד יש גישה משלו
+
+- אם אנחנו נפריד ביו תצפיות ו דעות/אמונות, זה יהווה בסיס להסכמה
